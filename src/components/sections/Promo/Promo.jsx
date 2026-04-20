@@ -88,7 +88,7 @@ export default function Promo() {
 
               <div className={styles.guideItem}>
                 <Image 
-                  src="/images/authors/Elizabeth_Hayes.jpg" 
+                  src="/images/authors/elizabeth_hayes.jpg" 
                   alt="guide"
                   width={110}
                   height={110}
@@ -101,7 +101,7 @@ export default function Promo() {
 
               <div className={styles.guideItem}>
                 <Image 
-                  src="/images/authors/Alexander_Pierce.jpg" 
+                  src="/images/authors/alexander_pierce.jpg" 
                   alt="photographer"
                   width={110}
                   height={110}
