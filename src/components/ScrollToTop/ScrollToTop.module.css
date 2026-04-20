@@ -10,8 +10,8 @@
     align-items: center;
     justify-content: center;
 
-    color: var(--color-text-dark);
-    background-color: var(--color-accent);
+    color: var(--color-text-light);
+    background-color: var(--color-active-btn);
 
     border: none;
     border-radius: 50%;
