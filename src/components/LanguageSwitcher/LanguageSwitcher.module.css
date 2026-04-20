@@ -1,0 +1,58 @@
+.switcher {
+    display: flex;
+    gap: 4px;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: var(--color-text-light);
+}
+
+.switcher button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--color-text-light);
+    font-family: var(--font-zen);
+    transition: color 0.3s ease;
+    font-size: 12px;
+}
+
+
+.dark button,
+.dark span {
+    color: var(--color-text-dark);
+}
+
+.light button,
+.light span {
+    color: var(--color-text-light);
+}
+
+.switcher button:hover {
+    color: var(--color-accent);
+}
+
+/* tablet */
+@media (min-width: 768px) {
+
+    .switcher {
+        gap: 4px;
+        font-size: 16px;
+    }
+
+    .switcher button {
+        font-size: 14px;
+    }
+}
+
+/* desktop */
+@media (min-width: 1024px) {
+
+    .switcher {
+        gap: 8px;
+        font-size: 18px;
+} 
+
+    .switcher button {
+        font-size: 16px;
+    }
+}

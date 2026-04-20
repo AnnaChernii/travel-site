@@ -1,0 +1,114 @@
+/* overlay */
+.overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(15, 15, 20, 0.55);
+    backdrop-filter: blur(6px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+    animation: fadeIn 0.25s ease;
+}
+
+/* modal box */
+.modal {
+    width: 100%;
+    max-width: 420px;
+    /* background: #ffffff; */
+    background: url('/images/bg/bg-modal.jpg') center/cover no-repeat;
+    border-radius: 16px;
+    padding: 32px 28px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+    position: relative;
+    animation: slideUp 0.3s ease;
+}
+
+/* title */
+.modal h2 {
+    font-family: var(--font-playfair, serif);
+    font-size: 26px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: var(--color-text-light);
+    letter-spacing: 0.3px;
+    text-align: center;
+}
+
+/* form layout */
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    justify-content: center;
+    align-items: center;
+}
+
+/* inputs */
+.form input {
+    width: 80%;
+    padding: 12px 14px;
+    border-radius: 10px;
+    border: 1px solid #e6e6e6;
+    background: #fafafa;
+    font-size: 14px;
+    outline: none;
+    transition: all 0.2s ease;
+}
+
+.form input:focus {
+    border-color: #AAAAAA;
+    background: #fff;
+    box-shadow: 0 0 0 3px rgba(201, 179, 126, 0.15);
+}
+
+/* button */
+.form button {
+    font-family: var(--font-playfair, serif);
+    margin-top: 10px;
+    padding: 12px 40px;
+    border-radius: 10px;
+    border: none;
+    background: #FBD2B0;
+    color: var(--color-text-dark);
+    font-size: 10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.form button:hover {
+    background: #ffffff;
+    transform: translateY(-1px);
+}
+
+/* success message */
+.success {
+    text-align: center;
+    font-size: 15px;
+    color: #2e7d32;
+    padding: 20px 0;
+    background: #ffffff;
+}
+
+/* animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}

@@ -1,0 +1,270 @@
+.promo {
+    padding: 80px 0;
+    background: url('/images/bg/bg-promo.jpg') center/cover no-repeat;
+}
+
+.promoContent {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.title {
+    text-align: center;
+    font-size: 42px;
+    font-weight: 600;
+}
+
+/*  TOP  */
+
+.topSection {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: center;
+}
+
+.map img {
+    width: 100%;
+    height: auto;
+}
+
+.textBlock {
+    max-width: 520px;
+}
+
+.textBlock p {
+    margin-bottom: 16px;
+    line-height: 1.6;
+}
+
+.textBlock h4 {
+    margin: 20px 0 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* BUTTON */
+
+.btn {
+    margin-top: 20px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 24px;
+    border: 1px solid var(--color-accent);
+    border-radius: 15px;
+    background: transparent;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background: var(--color-active-btn);
+}
+
+/* EXPANDED TEXT */
+
+.extraText {
+    margin-top: 20px;
+    animation: fadeIn 0.4s ease;
+}
+
+.extraText p {
+    margin-bottom: 14px;
+    line-height: 1.6;
+}
+
+/*  BOTTOM  */
+
+.bottomSection {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: center;
+    /* max-width: 80%; */
+    /* margin: 0 auto; */
+}
+
+/* GUIDES */
+.guides {
+    position: relative;
+    padding-top: 20px;
+    border: 1px solid var(--color-accent);
+    border-top: none;
+    border-radius: 0 15px 15px 15px;
+    background: transparent;
+    background-image: linear-gradient(to left, var(--color-accent) 50%, transparent 50%);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100% 1px;
+}
+
+.guidesTitle {
+    font-size: 32px;
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 40px;
+}
+
+.guideItem {
+    display: flex;
+    align-items: center;
+    gap: 53px;
+    margin: 5px 0 20px 20px;
+}
+
+.guideItem img {
+    border-radius: 50%;
+    width: 90px;
+    height: auto;
+
+}
+
+.guideItem p {
+    font-weight: 600;
+    font-family: var(--font-playfair);
+    margin-bottom: 5px;
+}
+
+.guideItem span {
+    font-size: 12px;
+}
+
+
+/* VIDEO */
+
+.videoWrapper {
+    width: 100%;
+    aspect-ratio: 16/9;
+    position: relative;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.preview {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+.previewImg {
+    object-fit: cover;
+}
+
+.video {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.playBtn {
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    background: var(--color-text-light);
+    border-radius: 50%;
+    padding: 12px 16px;
+    font-size: 24px;
+    border: none;
+    cursor: pointer;
+}
+
+.videoText {
+    position: absolute;
+    bottom: 90px;
+    left: 60px;
+    color: var(--color-text-light);
+}
+
+.videoText p {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.videoText span {
+    font-size: 14px;
+    opacity: 0.8;
+}
+
+/*  ANIMATION */
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* TABLET  */
+
+@media (max-width: 1024px) {
+    .topSection {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+
+    .map img {
+        width: 50%;
+        height: auto;
+    }
+    
+    .textBlock {
+        margin: 0 auto;
+    }
+
+    .bottomSection {
+        grid-template-columns: 1fr;
+        text-align: center;
+    }
+
+    .guides {
+        margin-bottom: 20px;
+    }
+
+    .guideItem {
+        justify-content: center;
+    }
+
+    .videoWrapper {
+        max-width: 600px;
+        margin: 0 auto;
+    }
+}
+
+/*  MOBILE */
+
+@media (max-width: 600px) {
+    .title {
+        font-size: 28px;
+    }
+
+    .promo {
+        padding: 50px 0;
+    }
+
+    .guideItem {
+        flex-direction: column;
+    }
+
+    .guideItem img {
+        width: 110px;
+        height: auto;
+    }
+
+    .playBtn {
+        font-size: 18px;
+    }
+
+    .map img {
+        width: 50%;
+        height: auto;
+    }
+}

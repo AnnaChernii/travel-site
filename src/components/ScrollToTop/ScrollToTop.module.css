@@ -1,0 +1,58 @@
+.button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+
+    width: 48px;
+    height: 48px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: var(--color-text-dark);
+    background-color: var(--color-accent);
+
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(20px);
+
+    transition: all 0.3s ease;
+    z-index: 1000;
+}
+
+/* Коли кнопка видима */
+.show {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+/* Hover */
+.button:hover {
+    color: var(--color-text-light);
+    background-color: var(--color-active-btn);
+    transform: translateY(-3px);
+}
+
+/* Active (клік) */
+.button:active {
+    transform: scale(0.95);
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    .button {
+        width: 42px;
+        height: 42px;
+        font-size: 18px;
+        bottom: 15px;
+        right: 15px;
+    }
+}

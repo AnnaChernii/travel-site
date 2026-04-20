@@ -1,0 +1,83 @@
+/* @import "tailwindcss"; */
+
+:root {
+  --color-primary: #1e3a8a;
+  --color-active-btn: #DC6E5A;
+  --color-accent: #FAD2B4;
+  --color-text-dark: #000000;
+  --color-text-light: #ffffff;
+  --font-roboto: 'Roboto', sans-serif;
+  --font-playfair: 'Playfair Display', serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-roboto);
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  font-family: var(--font-playfair);
+}
+
+
+/* mobile (default) */
+h1 {
+  font-size: 54px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+p {
+  font-size: 14px;
+}
+
+
+
+/* tablet */
+@media (min-width: 768px) {
+  h1 {
+    font-size: 96px;
+  }
+
+  h2 {
+    font-size: 30px;
+  }
+
+  h3 {
+    font-size: 16px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+}
+
+
+/* desktop */
+@media (min-width: 1024px) {
+  h1 {
+      font-size: 140px;
+  }
+  
+  h2 {
+    font-size: 46px;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+}
+

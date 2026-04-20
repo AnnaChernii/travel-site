@@ -1,0 +1,44 @@
+.blog {
+    background: url('/images/bg/bg-blog-page.png') center/cover no-repeat;
+}
+
+.pageTitle {
+    padding-top: 54px;
+    text-align: center;
+}
+
+.pageSubtitle {
+    font-family: var(--font-playfair);
+    font-size: 22px;
+    margin: 10px 0 40px;
+    text-align: center;
+}
+
+/* tablet */
+@media (min-width: 768px) {
+
+    .pageTitle {
+        padding-top: 54px;
+        text-align: center;
+    }
+    
+    .pageSubtitle {
+        font-size: 30px;
+        margin: 10px 0 40px;
+    }
+}
+
+/* desktop */
+@media (min-width: 1024px) {
+
+    .pageTitle {
+        text-align: left;
+    }
+
+    .pageSubtitle{
+        font-size: 40px;
+        margin: 10px 0 40px;
+        text-align: left;
+    }
+    
+}

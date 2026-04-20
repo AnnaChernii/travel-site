@@ -1,0 +1,545 @@
+[
+  {
+    "id": 1,
+    "slug": "amorgos-in-the-middle-of-the-blue-abyss",
+    "title": "Amorgos: in the Middle of the Blue Abyss",
+    "text": [
+      "Our journey began on Milos, sailing around the island on a yacht with a lively group of young Europeans. The calm sea quickly turned stormy, waves reaching 3 meters, testing everyone’s sea legs. Only a few of us embraced the chaos, enjoying the raw energy of the Aegean.",
+      "Late at night, we arrived at Amorgos. The island welcomed us with silence, broken only by the sound of the sea and distant harbor lights. It felt untouched, almost secret.",
+      "INTRODUCTION",
+      "Amorgos is one of the most authentic islands in the Cyclades. Its dramatic cliffs, deep blue waters, and minimal tourism create a unique atmosphere.",
+      "Unlike more famous islands, Amorgos invites you to slow down. Days are spent exploring quiet paths, discovering hidden beaches, and watching endless horizons.",
+      "Life on the Island",
+      "Villages are small but full of character. White houses, narrow alleys, and local tavernas define daily life.",
+      "Why Visit",
+      "Amorgos is perfect for those seeking solitude, nature, and a deeper connection with Greece."
+    ],
+    "author": "Jennifer Devis",
+    "date": "2026-07-15",
+    "image": "/images/blog/aradena.jpg",
+    "avatar": "/images/authors/jennifer_devis.jpg",
+    "authorInfo": "Travel writer and photographer specializing in Greece and Mediterranean destinations. Jennifer documents remote islands, cultural traditions, and slow travel experiences.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+
+  {
+    "id": 2,
+    "slug": "best-restaurants-in-karditsa",
+    "title": "Best Restaurants in Karditsa",
+    "text": [
+      "Karditsa is often associated with its landscapes, but its culinary scene deserves equal attention. The region offers authentic flavors rooted in tradition.",
+      "Mountain tavernas serve hearty dishes prepared with local ingredients. Meals are simple yet deeply satisfying.",
+      "Traditional Cuisine",
+      "Expect slow-cooked meats, handmade pies, and seasonal vegetables. Recipes reflect the agricultural heritage of the area.",
+      "Atmosphere",
+      "Dining here is warm and unpretentious. Hospitality plays a central role in the experience.",
+      "Where to Go",
+      "From lakeside spots to village tavernas, each location offers a unique perspective on local cuisine.",
+      "Final Thoughts",
+      "Karditsa is not about luxury dining—it’s about authenticity and connection to the land."
+    ],
+    "author": "Emily White",
+    "date": "2026-07-02",
+    "image": "/images/blog/karditsa.jpg",
+    "avatar": "/images/authors/emily_white.jpg",
+    "authorInfo": "Food and travel writer focused on traditional Greek cuisine and regional specialties.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+
+  {
+    "id": 3,
+    "slug": "ten-most-beautiful-exhibits-of-the-acropolis-museum",
+    "title": "Ten Most Beautiful Exhibits of the Acropolis Museum",
+    "text": [
+      "The Acropolis Museum offers a modern gateway into ancient Greek civilization. Its collection spans centuries of artistic and cultural development.",
+      "Walking through the museum feels like moving through time, from archaic sculptures to classical masterpieces.",
+      "Top Exhibits",
+      "Highlights include the Caryatids, Parthenon marbles, and detailed friezes.",
+      "Architectural Design",
+      "The building itself enhances the experience, with natural light and views of the Acropolis.",
+      "Cultural Value",
+      "Each artifact carries historical significance, reflecting the evolution of Athens.",
+      "Conclusion",
+      "A visit here is essential for understanding the depth of Greek history."
+    ],
+    "author": "James Wilson",
+    "date": "2026-06-18",
+    "image": "/images/blog/acropolis-museum.jpg",
+    "avatar": "/images/authors/james_wilson.jpg",
+    "authorInfo": "Historian and writer exploring ancient Greek culture, archaeology, and museums.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+
+  {
+    "id": 4,
+    "slug": "metsovo-the-jewel-of-epirus",
+    "title": "Metsovo - The Jewel of Epirus",
+    "text": [
+      "Metsovo is a mountain town rich in tradition and natural beauty. Its location in the Pindus range makes it a year-round destination.",
+      "The town is known for its stone architecture and scenic surroundings.",
+      "Winter Charm",
+      "Snow transforms Metsovo into a cozy retreat, popular among winter travelers.",
+      "Local Products",
+      "Cheese, wine, and handcrafted goods are central to its identity.",
+      "Culture",
+      "Festivals and traditions remain strong, preserving its heritage.",
+      "Experience",
+      "Metsovo offers a blend of relaxation, nature, and cultural depth."
+    ],
+    "author": "David Miller",
+    "date": "2026-06-02",
+    "image": "/images/blog/metsovo.jpg",
+    "avatar": "/images/authors/david_miller.jpg",
+    "authorInfo": "Travel writer focusing on mountain destinations and traditional Greek villages.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  
+  {
+    "id": 5,
+    "slug": "best-burgers-in-athens-street-food-as-art",
+    "title": "Best Burgers in Athens - Street Food as Art",
+    "text": [
+      "Athens has quietly become a destination for street food lovers, and burgers are at the center of this transformation. What was once simple fast food has evolved into something more refined and creative.",
+      "Across the city, chefs experiment with flavors, combining premium ingredients with bold ideas. The result is a burger scene that feels both international and distinctly local.",
+      "What Makes a Great Burger",
+      "It starts with quality meat, freshly baked buns, and carefully balanced toppings. From classic combinations to unexpected twists, variety defines the experience.",
+      "Where to Try",
+      "From trendy neighborhoods to hidden corners, Athens offers a wide range of burger spots. Each place brings its own identity, whether minimalist or gourmet.",
+      "Atmosphere",
+      "Many burger spots focus on casual, vibrant environments. Music, design, and open kitchens all contribute to the overall experience.",
+      "Final Bite",
+      "In Athens, burgers are no longer just food—they’re a form of expression, blending creativity with comfort."
+    ],
+    "author": "Michael Brown",
+    "date": "2026-05-12",
+    "image": "/images/blog/burgers-athens.jpg",
+    "avatar": "/images/authors/michael_brown.jpg",
+    "authorInfo": "Urban food writer exploring modern street food trends and contemporary dining culture in European cities.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "how-many-cities-in-the-world-are-called-athens",
+    "title": "How Many Cities in the World Are Called Athens?",
+    "text": [
+      "The name 'Athens' carries a legacy that extends far beyond Greece. Inspired by the ancient city’s influence, many places around the world adopted the same name.",
+      "From the United States to smaller towns in Europe, the name reflects admiration for classical ideals such as democracy, philosophy, and culture.",
+      "Historical Influence",
+      "Ancient Athens played a key role in shaping Western civilization. Its reputation made it a symbolic reference point for new settlements.",
+      "Global Presence",
+      "Today, dozens of cities and towns share the name. Each one tells a different story, yet all connect back to the original.",
+      "Meaning Behind the Name",
+      "Naming a city 'Athens' was often a way to express ambition, education, and cultural aspiration.",
+      "Conclusion",
+      "The spread of the name highlights the lasting global impact of ancient Greek civilization."
+    ],
+    "author": "James Wilson",
+    "date": "2026-06-02",
+    "image": "/images/blog/athens-name.jpg",
+    "avatar": "/images/authors/james_wilson.jpg",
+    "authorInfo": "Historian focused on the global influence of ancient Greece and the spread of classical ideas across cultures.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "the-golden-age-of-greek-science",
+    "title": "The Golden Age of Greek Science",
+    "text": [
+      "The Golden Age of Greek science represents a period of remarkable intellectual progress. Thinkers explored mathematics, astronomy, medicine, and philosophy.",
+      "This era laid the foundations for modern scientific thinking, emphasizing observation, logic, and inquiry.",
+      "Key Contributions",
+      "Figures like Aristotle, Hippocrates, and Euclid contributed knowledge that remains relevant today.",
+      "Philosophy and Science",
+      "Science and philosophy were deeply connected, shaping a holistic understanding of the world.",
+      "Legacy",
+      "Greek scientific achievements influenced later civilizations, particularly during the Renaissance.",
+      "Enduring Impact",
+      "Even today, many scientific principles trace their origins back to ancient Greece."
+    ],
+    "author": "Emily White",
+    "date": "2026-04-17",
+    "image": "/images/blog/greek-science.jpg",
+    "avatar": "/images/authors/emily_white.jpg",
+    "authorInfo": "Writer exploring the intersection of science, philosophy, and history in ancient civilizations.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "secrets-of-the-ancient-district-beneath-the-acropolis",
+    "title": "Secrets of the Ancient District Beneath the Acropolis",
+    "text": [
+      "Beneath the Acropolis lies an ancient district that reveals everyday life in classical Athens. Walking through it feels like uncovering hidden layers of history.",
+      "The remains include homes, streets, and workshops, offering insight into daily routines.",
+      "Archaeological Discovery",
+      "Excavations have uncovered structures that date back centuries before the Parthenon.",
+      "Daily Life",
+      "Artifacts show how people lived, worked, and interacted in this vibrant area.",
+      "Experience",
+      "Visitors can walk above the ruins, observing them through glass floors and pathways.",
+      "Conclusion",
+      "This district adds depth to the Acropolis experience, connecting monuments with real human stories."
+    ],
+    "author": "Michael Brown",
+    "date": "2026-05-03",
+    "image": "/images/blog/acropolis-district.jpg",
+    "avatar": "/images/authors/michael_brown.jpg",
+    "authorInfo": "Cultural writer focused on archaeology, urban history, and immersive travel experiences in Greece.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "top-restaurants-in-arachova",
+    "title": "Top Restaurants in Arachova",
+    "text": [
+      "Arachova is known not only for its mountain charm but also for its vibrant food scene. The town blends tradition with modern dining.",
+      "Restaurants here offer a mix of hearty local dishes and refined cuisine.",
+      "Local Specialties",
+      "Dishes like trahana soup, grilled meats, and formela cheese define the region.",
+      "Dining Atmosphere",
+      "From cozy tavernas to stylish restaurants, Arachova offers diverse experiences.",
+      "Nightlife",
+      "The town becomes lively in the evenings, combining dining with entertainment.",
+      "Final Thoughts",
+      "Arachova is a destination where food and atmosphere come together seamlessly."
+    ],
+    "author": "David Miller",
+    "date": "2026-04-16",
+    "image": "/images/blog/arachova.jpg",
+    "avatar": "/images/authors/david_miller.jpg",
+    "authorInfo": "Travel and lifestyle writer covering gastronomy, mountain destinations, and local experiences in Greece.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "the-best-beaches-in-greece-for-families",
+    "title": "The Best Beaches in Greece for Families",
+    "text": [
+      "Greece offers a wide variety of family-friendly beaches, known for their calm waters and safe environments.",
+      "From sandy shores to shallow lagoons, these beaches are perfect for children and relaxed travel.",
+      "Top Locations",
+      "Places like Crete and Naxos are particularly popular for family vacations.",
+      "What to Expect",
+      "Clear water, organized facilities, and easy access make these beaches ideal.",
+      "Activities",
+      "Families can enjoy swimming, snorkeling, and beachside dining.",
+      "Conclusion",
+      "Choosing the right beach can transform a family trip into a memorable experience."
+    ],
+    "author": "Emily White",
+    "date": "2026-03-20",
+    "image": "/images/blog/family-beaches.jpg",
+    "avatar": "/images/authors/emily_white.jpg",
+    "authorInfo": "Travel writer specializing in family-friendly destinations and accessible travel experiences.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "a-ghost-village-in-crete-hanging-over-a-gorge",
+    "title": "A Ghost Village in Crete Hanging Over a Gorge",
+    "text": [
+      "Aradena is one of the most hauntingly beautiful places in Crete. Perched on the edge of a deep gorge in the Sfakia region, the village stands abandoned yet full of presence.",
+      "Walking through its empty stone houses, you can feel traces of the past. Silence dominates, interrupted only by wind and distant echoes from the canyon below.",
+      "A Village Frozen in Time",
+      "Aradena was once a thriving community, but over time it was gradually deserted. Today, its ruins tell stories of life that abruptly faded.",
+      "The Gorge Below",
+      "The dramatic Aradena Gorge stretches beneath the village, attracting hikers and adventure seekers. The contrast between natural beauty and human absence is striking.",
+      "Atmosphere",
+      "There is something deeply atmospheric about Aradena. It is not just a destination—it is an experience shaped by history and landscape.",
+      "Why Visit",
+      "For those looking beyond typical tourist routes, Aradena offers a rare combination of mystery, history, and breathtaking views."
+    ],
+    "author": "Jennifer Devis",
+    "date": "2026-02-15",
+    "image": "/images/blog/aradena.jpg",
+    "avatar": "/images/authors/jennifer_devis.jpg",
+    "authorInfo": "Travel writer and photographer focusing on hidden locations, abandoned places, and remote landscapes across Greece.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "best-restaurants-in-karditsa",
+    "title": "Best Restaurants in Karditsa",
+    "text": [
+      "Karditsa combines natural beauty with a strong culinary identity. Its food culture reflects the traditions of Thessaly and the surrounding mountains.",
+      "Local tavernas remain the heart of the dining scene, offering authentic meals made with regional ingredients.",
+      "Traditional Dishes",
+      "Expect rich flavors, including slow-cooked meats, handmade pies, and seasonal produce sourced locally.",
+      "Dining Experience",
+      "Meals are relaxed and social, often enjoyed over long conversations and shared plates.",
+      "Where to Eat",
+      "From rustic village spots to lakeside restaurants, Karditsa provides diverse options.",
+      "Conclusion",
+      "Food in Karditsa is about authenticity, simplicity, and connection to tradition."
+    ],
+    "author": "Emily White",
+    "date": "2026-01-02",
+    "image": "/images/blog/karditsa.jpg",
+    "avatar": "/images/authors/emily_white.jpg",
+    "authorInfo": "Food and travel writer exploring traditional Greek gastronomy and regional culinary heritage.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "ten-most-beautiful-exhibits-of-the-acropolis-museum",
+    "title": "Ten Most Beautiful Exhibits of the Acropolis Museum",
+    "text": [
+      "The Acropolis Museum stands as a bridge between ancient history and modern presentation. Its exhibits offer a detailed look into classical Athens.",
+      "Each artifact contributes to a broader narrative about art, religion, and society.",
+      "Key Highlights",
+      "The Caryatids and Parthenon sculptures remain among the most iconic pieces.",
+      "Visitor Experience",
+      "The museum’s design enhances visibility and engagement with each exhibit.",
+      "Historical Context",
+      "Artifacts are displayed with context, helping visitors understand their significance.",
+      "Final Impression",
+      "A visit to the museum provides a deeper appreciation of ancient Greek civilization."
+    ],
+    "author": "James Wilson",
+    "date": "2025-11-18",
+    "image": "/images/blog/acropolis-museum.jpg",
+    "avatar": "/images/authors/james_wilson.jpg",
+    "authorInfo": "Historian and museum writer focusing on ancient Greece and cultural heritage interpretation.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "metsovo-the-jewel-of-epirus",
+    "title": "Metsovo - The Jewel of Epirus",
+    "text": [
+      "Metsovo is a traditional mountain town known for its strong cultural identity and scenic surroundings.",
+      "Located in the Pindus mountains, it offers a blend of nature, architecture, and history.",
+      "Seasonal Appeal",
+      "While popular in winter, Metsovo remains attractive throughout the year.",
+      "Local Heritage",
+      "Crafts, cheeses, and wines reflect the town’s traditions.",
+      "Atmosphere",
+      "Stone buildings and mountain views create a unique setting.",
+      "Conclusion",
+      "Metsovo offers an authentic and peaceful escape from busy destinations."
+    ],
+    "author": "David Miller",
+    "date": "2025-10-02",
+    "image": "/images/blog/metsovo.jpg",
+    "avatar": "/images/authors/david_miller.jpg",
+    "authorInfo": "Travel writer focusing on traditional villages, mountainous regions, and cultural landscapes in Greece.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "best-burgers-in-athens-street-food-as-art",
+    "title": "Best Burgers in Athens - Street Food as Art",
+    "text": [
+      "Athens continues to redefine its street food culture, with burgers becoming a central trend.",
+      "Modern burger spots combine quality ingredients with creative presentation.",
+      "What to Expect",
+      "Juicy patties, fresh buns, and unique toppings create diverse options.",
+      "Locations",
+      "From city center hotspots to hidden gems, choices are endless.",
+      "Dining Style",
+      "Casual environments make burger places accessible and social.",
+      "Conclusion",
+      "Burgers in Athens represent a modern take on comfort food."
+    ],
+    "author": "Michael Brown",
+    "date": "2025-09-12",
+    "image": "/images/blog/burgers-athens.jpg",
+    "avatar": "/images/authors/michael_brown.jpg",
+    "authorInfo": "Food writer covering street food culture and contemporary dining trends in urban Greece.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "how-many-cities-in-the-world-are-called-athens",
+    "title": "How Many Cities in the World Are Called Athens?",
+    "text": [
+      "The influence of ancient Athens extends globally, inspiring many cities to adopt its name.",
+      "This reflects admiration for Greek culture and intellectual heritage.",
+      "Global Spread",
+      "Numerous towns, especially in the United States, share the name.",
+      "Symbolism",
+      "The name represents education, culture, and democracy.",
+      "Historical Roots",
+      "Ancient Athens shaped philosophical and political thought.",
+      "Conclusion",
+      "The widespread use of the name highlights its enduring legacy."
+    ],
+    "author": "James Wilson",
+    "date": "2025-08-02",
+    "image": "/images/blog/athens-name.jpg",
+    "avatar": "/images/authors/james_wilson.jpg",
+    "authorInfo": "Historian exploring the global legacy of ancient Greek civilization and cultural influence.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "the-golden-age-of-greek-science",
+    "title": "The Golden Age of Greek Science",
+    "text": [
+      "Ancient Greece experienced a period of intellectual flourishing known as the Golden Age of science.",
+      "Thinkers explored mathematics, medicine, and astronomy with groundbreaking ideas.",
+      "Key Figures",
+      "Philosophers and scientists laid the foundation for modern disciplines.",
+      "Approach",
+      "Observation and logic became central to understanding the world.",
+      "Legacy",
+      "Their discoveries influenced later civilizations and scientific progress.",
+      "Conclusion",
+      "Greek science remains a cornerstone of modern knowledge."
+    ],
+    "author": "Emily White",
+    "date": "2025-06-17",
+    "image": "/images/blog/greek-science.jpg",
+    "avatar": "/images/authors/emily_white.jpg",
+    "authorInfo": "Writer focused on science history and the intellectual achievements of ancient civilizations.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "secrets-of-the-ancient-district-beneath-the-acropolis",
+    "title": "Secrets of the Ancient District Beneath the Acropolis",
+    "text": [
+      "The ancient district beneath the Acropolis reveals everyday life in early Athens.",
+      "Excavations uncovered homes, streets, and artifacts from different periods.",
+      "Historical Insight",
+      "These remains provide context for the city’s development.",
+      "Experience",
+      "Visitors can observe the ruins while walking through the museum complex.",
+      "Importance",
+      "It connects monumental history with ordinary life.",
+      "Conclusion",
+      "This site adds depth to the story of Athens."
+    ],
+    "author": "Michael Brown",
+    "date": "2025-05-03",
+    "image": "/images/blog/acropolis-district.jpg",
+    "avatar": "/images/authors/michael_brown.jpg",
+    "authorInfo": "Cultural writer focusing on archaeology, urban exploration, and historical storytelling.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "top-restaurants-in-arachova",
+    "title": "Top Restaurants in Arachova",
+    "text": [
+      "Arachova is a mountain destination known for both its scenery and cuisine.",
+      "Its restaurants combine traditional recipes with modern touches.",
+      "Local Dishes",
+      "Cheese, meats, and regional specialties dominate menus.",
+      "Dining Scene",
+      "Options range from rustic tavernas to elegant restaurants.",
+      "Evening Life",
+      "The town becomes lively after dark, blending food and entertainment.",
+      "Conclusion",
+      "Arachova offers a complete culinary experience."
+    ],
+    "author": "David Miller",
+    "date": "2025-04-16",
+    "image": "/images/blog/arachova.jpg",
+    "avatar": "/images/authors/david_miller.jpg",
+    "authorInfo": "Travel and food writer covering mountain gastronomy and regional dining experiences.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "top-restaurants-in-arachova",
+    "title": "Top Restaurants in Arachova",
+    "text": [
+      "Arachova continues to attract visitors with its blend of mountain charm and culinary appeal.",
+      "Restaurants highlight local ingredients and traditional techniques.",
+      "Cuisine",
+      "Expect hearty meals, rich flavors, and regional specialties.",
+      "Atmosphere",
+      "Dining spaces range from cozy to modern and stylish.",
+      "Experience",
+      "Food here is closely tied to the town’s vibrant culture.",
+      "Conclusion",
+      "Arachova remains one of Greece’s top destinations for food and atmosphere."
+    ],
+    "author": "David Miller",
+    "date": "2025-02-16",
+    "image": "/images/blog/arachova.jpg",
+    "avatar": "/images/authors/david_miller.jpg",
+    "authorInfo": "Travel writer specializing in gastronomy and lifestyle destinations in Greece.",
+    "gallery": [
+      "/images/blog/gallery/acropolis-museum.jpg",
+      "/images/blog/gallery/arachova.jpg",
+      "/images/blog/gallery/athens-name.jpg"
+    ]
+  }
+]
