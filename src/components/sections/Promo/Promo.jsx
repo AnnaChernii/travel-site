@@ -124,6 +124,7 @@ export default function Promo() {
                   <Image
                     src="/images/bg/video-preview.jpg"
                     alt="video preview"
+                    sizes="(max-width: 1024px) 100vw, 50vw"
                     fill
                     className={styles.previewImg}
                   />

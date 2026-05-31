@@ -3,7 +3,7 @@ import posts from '@/data/blog.json';
 import PostClient from './PostClient';
 
 export default async function Page({ params }) {
-  const { slug } = await params;   // 👈 ВАЖЛИВО
+  const { slug } = await params; 
 
   const id = Number(slug);
 

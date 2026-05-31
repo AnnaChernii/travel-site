@@ -4,7 +4,6 @@ import { usePathname } from 'next/navigation';
 import { useState } from 'react';
 import Link from 'next/link';
 import styles from './Header.module.css';
-import LanguageSwitcher from '../LanguageSwitcher/LanguageSwitcher';
 import Image from 'next/image';
 import Container from '../Container/Container';
 
@@ -36,11 +35,6 @@ export default function Header() {
             <Link href="/transfers">Transfers</Link>
             <Link href="/contacts">Contacts</Link>
           </nav>
-
-          {/* LANGUAGE */}
-          <div className={styles.language}>
-            <LanguageSwitcher />
-          </div>
 
           {/* BURGER */}
           <button
